@@ -1,0 +1,16 @@
+# Vivado junk
+*.log
+*.jou
+*.str
+*.wdb
+*.wcfg
+
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+
+# OS junk
+.DS_Store
+Thumbs.db

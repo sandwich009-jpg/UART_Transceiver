@@ -1,0 +1,12 @@
+
+{ 
+    crc :  11066779025827179231  , 
+    ccp_crc :  0  , 
+    cmdline : " --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot RECIEVER_tb_behav xil_defaultlib.RECIEVER_tb xil_defaultlib.glbl" , 
+    buildDate : "Mar 19 2026" , 
+    buildTime : "19:50:51" , 
+    linkCmd : "D:\\AMDDesignTools\\2025.2.1\\Vivado\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/RECIEVER_tb_behav/xsimk.exe\"   \"xsim.dir/RECIEVER_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/RECIEVER_tb_behav/obj/xsim_1.win64.obj\" -L\"D:\\AMDDesignTools\\2025.2.1\\Vivado\\lib\\win64.o\" -lxv_simulator_kernel   -lxv_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

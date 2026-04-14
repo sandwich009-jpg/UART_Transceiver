@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "D:/AMDDesignTools/2025.2.1/Vivado/data/rsb/busdef" \
+"../../../../UART.srcs/sources_1/new/RECEIVER.sv" \
+"../../../../UART.srcs/sources_1/new/TRANSMISSION.sv" \
+"../../../../UART.srcs/sources_1/new/UART_TOP.sv" \
+"../../../../UART.srcs/sources_1/new/baud_gen.sv" \
+"../../../../UART.srcs/sim_1/new/UART_TOP_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

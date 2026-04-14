@@ -1,0 +1,13 @@
+0.7
+2020.2
+Mar 19 2026
+19:50:51
+C:/Users/yasha/UART/UART.sim/sim_1/behav/xsim/glbl.v,1762536278,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/yasha/UART/UART.srcs/sim_1/new/RECIEVER_tb.sv,1776150647,systemVerilog,,,,RECIEVER_tb,,uvm,D:/AMDDesignTools/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/yasha/UART/UART.srcs/sim_1/new/TRANSMISSION_tb.sv,1776089243,systemVerilog,,,,TRANSMISSION_tb,,uvm,D:/AMDDesignTools/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/yasha/UART/UART.srcs/sim_1/new/UART_TOP_tb.sv,1776156654,systemVerilog,,,,UART_TOP_tb,,uvm,D:/AMDDesignTools/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/yasha/UART/UART.srcs/sim_1/new/baud_gen_tb.sv,1776076616,systemVerilog,,,,baud_gen_tb,,uvm,D:/AMDDesignTools/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/yasha/UART/UART.srcs/sources_1/new/RECEIVER.sv,1776147740,systemVerilog,,C:/Users/yasha/UART/UART.srcs/sources_1/new/TRANSMISSION.sv,,RECEIVER,,uvm,D:/AMDDesignTools/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/yasha/UART/UART.srcs/sources_1/new/TRANSMISSION.sv,1776090310,systemVerilog,,C:/Users/yasha/UART/UART.srcs/sources_1/new/UART_TOP.sv,,TRANSMISSION,,uvm,D:/AMDDesignTools/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/yasha/UART/UART.srcs/sources_1/new/UART_TOP.sv,1776156605,systemVerilog,,C:/Users/yasha/UART/UART.srcs/sources_1/new/baud_gen.sv,,UART_TOP,,uvm,D:/AMDDesignTools/2025.2.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/yasha/UART/UART.srcs/sources_1/new/baud_gen.sv,1776063246,systemVerilog,,C:/Users/yasha/UART/UART.srcs/sim_1/new/UART_TOP_tb.sv,,baud_gen,,uvm,D:/AMDDesignTools/2025.2.1/Vivado/data/rsb/busdef,,,,,
